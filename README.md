@@ -17,5 +17,5 @@ Things you may want to cover:
 - Services (job queues, cache servers, search engines, etc.)
 - Deployment instructions
 - [Estimation](https://docs.google.com/spreadsheets/d/1kSxI65eQfvyiv5grYtj_i-d35iJbaS81IGHMdt1h5iU/edit#gid=122977981)
-
+- [SCRUM Board](https://github.com/users/Metuz/projects/1)
 ...
